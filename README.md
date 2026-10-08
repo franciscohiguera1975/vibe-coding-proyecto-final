@@ -32,9 +32,16 @@ explicit rule with blur/illegibility detection. It was verified with 68 automate
 | [VC-2026-008-038_ProyectoFinal_EN.pptx](VC-2026-008-038_ProyectoFinal_EN.pptx) | Presentación en inglés (10 diapositivas, con guion en las notas) |
 | [VC-2026-008-038_NotaMetodologica.docx](VC-2026-008-038_NotaMetodologica.docx) | Nota metodológica (lección R5.3) |
 
-## Plataforma
+## Enlaces
 
-Vibe Coding Platform: https://vibe-coding-platform.franciscohiguera.site
+| | |
+|---|---|
+| Plataforma (producción) | https://vibe-coding-platform.franciscohiguera.site |
+| API (producción) | https://vibe-coding-platform-api.franciscohiguera.site |
+| Presentación · proyecto final (videos ES/EN en la plataforma) | https://vibe-coding-platform.franciscohiguera.site/proyecto-final |
+| Repositorio de la plataforma (código fuente) | https://github.com/franciscohiguera1975/vibe-coding-project |
+| Este repositorio (presentaciones, nota metodológica) | https://github.com/franciscohiguera1975/vibe-coding-proyecto-final |
+| Página de este repositorio (GitHub Pages) | https://franciscohiguera1975.github.io/vibe-coding-proyecto-final/ |
 
 ---
 
